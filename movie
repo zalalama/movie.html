@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+<title> My fiavorite movie</title>
+<meta charset="utf-8">
+</head>
+<body>
+My fiavorite movie
+<h1> up in smoke</h1>
+
+<br>
+<p>This movie is funny and entertaining. It's about two american guy who accidentally meet on the highway.they go in search for some marijuna and accidentally deported to mexico and they are desperate to go back home and agree to drive a van back to state but they are unaware that van is constructed with full of marijuna 
+. <br>  <i>Welcome to the first elements of <strong>HTML5</strong></i>.</p>
+<blockquote>Multiple polls conducted since the Supreme Court's ruling overturning Roe v. Wade find that broad majorities of the public disapprove and suggest that in the immediate aftermath of the ruling, the decision could be more motivational for Democrats than Republicans.
+
+
+<h1>The main actor andactors</h1>
+<ul>
+<li>Cheech Marin</li>
+<li>Tommy Chong</li>
+<li>Strother</li>
+<li>Edie Adams</li>
+<li>Stacy Keach</li>
+</ul>
+
+<hr>
+<footer> <a href="https://www.google.com">Contant us</a> <a href="mailto:mickey@aol.com">mickey@aol.com</a>&copy; 2022 Cable News Example</footer>
+</body>
+</html>
